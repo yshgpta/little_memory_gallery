@@ -1,0 +1,47 @@
+.gallery-bg{
+  background: linear-gradient(to bottom, #537895, #09203f);
+}
+
+
+.gallery-header{
+  text-align: center;
+}
+
+.st0{
+  fill-rule:evenodd;
+  clip-rule:evenodd;
+}
+
+.gallery-text-1{
+  font-family: Roboto;
+  font-size: 8rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top:80px;
+  margin-bottom: 0;
+  color: rgb(232, 232, 232);
+  line-height: .5
+}
+
+.gallery-text-2{
+  font-family: Roboto;
+  font-size: 10rem;
+  font-weight: 200;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top:0px;
+  color: #fff;
+}
+
+.gallery-quote{
+  font-family: Dancing Script;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 80px;
+  color: rgb(232, 232, 232);
+}
+
+.gallery-footer{
+  text-align: center;
+}

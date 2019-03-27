@@ -1,17 +1,19 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
-import Timeline from './components/Timeline/Timeline'
-import GalleryIntro from './components/GalleryIntro/GalleryIntro'
-import UploadForm from './components/UploadForm/UploadForm'
-import ImageList from './components/ImageList/ImageList'
+import Timeline from '../Timeline/Timeline'
+import GalleryIntro from '../GalleryIntro/GalleryIntro'
+import UploadForm from '../UploadForm/UploadForm'
+import ImageList from '../ImageList/ImageList'
 
-import './App.css'
+import './Gallery.css'
 
 const CLOUDINARY_URL = 	" https://api.cloudinary.com/v1_1/de8middwc/image/upload";
 const CLOUDINARY_UPLOAD_PRESET = "cys4excj"
 
-class App extends Component {
+
+
+class Gallery extends Component {
   constructor(){
     super();
     this.state={
@@ -98,5 +100,4 @@ class App extends Component {
     )
   }
 }
-
-export default App;
+export default Gallery;
