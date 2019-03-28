@@ -4,3 +4,13 @@ In other words, it is a place where you can upload and view your images just as 
 It has a timeline slider were you can place your photos in a yearly manner. This have been done with the help of jssor-slider.</br>
 This app also enable you to upload new images to the gallery only after giving the Master Key set by the admin. This feature secure unauthorized personals from polluting your gallery.</br>
 API used for storing images - # CloudinaryAPI
+#
+Following is the overview of the app...
+![](main1.png)
+College Days!!
+#
+![](main2.png)
+Page before entering Master Key
+#
+![](main3.png)
+Page after entering Master Key
