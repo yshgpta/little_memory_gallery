@@ -7,10 +7,10 @@ API used for storing images - # CloudinaryAPI
 #
 Following is the overview of the app...
 ![](main1.png)
-College Days!!
+<b>College Days!!</b>
 #
 ![](main2.png)
-Page before entering Master Key
+<b>Page before entering Master Key.</b>
 #
 ![](main3.png)
-Page after entering Master Key
+</b>Page after entering Master Key</b>
